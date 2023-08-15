@@ -95,4 +95,24 @@ body {
       padding: 8px 12x;
     }
   }
+
+@media screen and (max-width: 650px) {
+    #paneltop {
+      padding: 0 10%;
+      height: 80px;
+    }
+    
+    .elem h2 {
+      font-size: 18px;
+    }
+    
+    .box {
+      font-size: 18px;
+      padding: 8px 16px;
+    }
+  }
+  
+  
+
+
   
